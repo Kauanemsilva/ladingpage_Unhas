@@ -1,0 +1,119 @@
+ @import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@300;400;500;600;700&family=Playfair+Display:wght@400;500;600;700&display=swap');
+ @import url('https://fonts.googleapis.com/css2?family=Playfair+Display&display=swap');
+        
+        :root {
+            --primary-color: #ff6b8b;
+            --secondary-color: #ff8fab;
+            --accent-color: #ffb3c6;
+            --dark-pink: #d72d5a;
+            --light-pink: #fff0f3;
+        }
+        
+        body {
+            font-family: 'Montserrat', sans-serif;
+            color: #333;
+            background-color: #f0bdca;
+        }
+        
+        h1, h2, h3 {
+            font-family: 'Playfair Display', serif;
+        }
+        
+        .bg-primary {
+            background-color: var(--primary-color);
+            border: 1px solid #f8d7e1;
+            transition: transform 0.3s ease;
+        }
+        
+        .testimonial-card:hover {
+            transform: translateY(-5px);
+        }
+        
+        .btn {
+            transition: all 0.3s ease;
+        }
+        
+        .btn:hover {
+            transform: translateY(-2px);
+            box-shadow: 0 5px 15px rgba(214, 45, 90, 0.3);
+        }
+        
+        .btn-primary {
+            background-color: var(--primary-color);
+        }
+        
+        .btn-primary:hover {
+            background-color: var(--dark-pink);
+        }
+
+         /* Sobre nos seção */
+      .u-section-5 {
+        position: relative;
+        padding: 100px 20px;
+        background-color: #fdf4ec;
+        font-family: 'Georgia', serif;
+        overflow: hidden;
+        text-align: center;
+      }
+
+      .u-svg-bg {
+        position: absolute;
+        top: 0;
+        left: 0;
+        width: 100%;
+        height: 500px;
+        z-index: 0;
+        pointer-events: none;
+      }
+
+      .u-section-5 h3 {
+        font-family: 'Playfair Display', serif;
+        font-size: 40px;
+        color: #b46642;
+        margin-bottom: 40px;
+        position: relative;
+        z-index: 1;
+      }
+
+      .u-layout-wrap-1 {
+        display: flex;
+        justify-content: center;
+        gap: 40px;
+        flex-wrap: wrap;
+        margin-bottom: 40px;
+        position: relative;
+        z-index: 1;
+      }
+
+      .u-layout-cell {
+        flex: 1;
+        min-width: 300px;
+        max-width: 400px;
+      }
+
+      .u-layout-cell p {
+        font-size: 20px;
+        line-height: 1.7;
+        color: #010101;
+        text-align: left;
+      }
+
+      .u-btn-1 {
+        background-color: #b46642;
+        color: white;
+        border: none;
+        padding: 12px 30px;
+        border-radius: 4px;
+        text-transform: uppercase;
+        font-weight: bold;
+        font-size: 20px;
+        transition: background-color 0.3s ease;
+        position: relative;
+        z-index: 1;
+      }
+
+      .u-btn-1:hover {
+        background-color: #d38a5f;
+      }
+
+  
