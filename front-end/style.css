@@ -12,7 +12,8 @@
         body {
             font-family: 'Montserrat', sans-serif;
             color: #333;
-            background-color: #f0bdca;
+            background: linear-gradient(to right, #f88ac7, #f4b1d7, #f4c9e0); /* de rosa claro para um pouco mais forte e voltando */
+            
         }
         
         h1, h2, h3 {
@@ -116,4 +117,12 @@
         background-color: #d38a5f;
       }
 
-  
+     /* Mapa com altura adaptada */
+        .footer__map iframe {
+          height: 250px;
+          max-width: 100%;
+          margin: 1rem 0;
+        }
+
+
+ 
