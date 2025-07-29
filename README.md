@@ -1,11 +1,8 @@
 💅 Pink Glamour - Site de Estética
 
-<div align="center">
+  <img src="/front-end/assets/image.png" alt="Preview" width="400"/>
 
-![Pink Glamour]
-  <img src="./assets/image.png" alt="Preview" width="400"/>
 
-</div>
 
 Site institucional moderno e elegante desenvolvido para um salão de beleza especializado em **design de unhas**, **manicure**, **pedicure** e **alongamento em gel**. O projeto combina design atrativo com funcionalidade, proporcionando uma experiência única para os clientes.
 
