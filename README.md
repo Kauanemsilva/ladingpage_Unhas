@@ -1,6 +1,6 @@
 💅 Pink Glamour - Site de Estética
 
-  <img src="/front-end/assets/image.png" alt="Preview" width="400"/>
+  <img src="assets/image.png" alt="Preview" width="400"/>
 
 
 
