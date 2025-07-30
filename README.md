@@ -10,7 +10,7 @@ Site institucional moderno e elegante desenvolvido para um salão de beleza espe
 
 ## 🌟 Preview
 
-> **Visite o site:** [Pink Glamour - Em breve](#) 
+> **Visite o site:** [Pink Glamour - https://kauanemsilva.github.io/ladingpage_Unhas/ ](#) 
 
 ### 📸 Capturas de Tela
 ```
